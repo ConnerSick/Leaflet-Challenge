@@ -22,14 +22,3 @@ body,
   margin-right: 8px;
   opacity: 0.7;
 }
-
-.leaflet-bottom.leaflet-left {
-  width: 90%;
-}
-
-.leaflet-control-container .leaflet-timeline-controls {
-  width: 100%;
-  box-sizing: border-box;
-  margin: 0;
-  margin-bottom: 15px;
-}
